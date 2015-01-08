@@ -1,0 +1,1 @@
+start tail -f C:\bea1035\user_projects\domains\aws46\awshome\logs\out_0.log

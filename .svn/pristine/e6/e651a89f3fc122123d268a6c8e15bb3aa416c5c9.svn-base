@@ -1,0 +1,6 @@
+
+call mvn install:install-file -DgroupId=com.silanis -DartifactId=aws-soap -Dversion=3.8.5 -Dpackaging=jar -Dfile=../lib/silanis/aws-soap.jar -D
+
+call mvn install:install-file -DgroupId=com.silanis -DartifactId=approveitng -Dversion=3.8.5 -Dpackaging=jar -Dfile=../lib/silanis/approveitng.jar
+
+call mvn install:install-file -DgroupId=com.silanis -DartifactId=awsdocengdep -Dversion=3.8.5 -Dpackaging=jar -Dfile=../lib/silanis/awsdocengdep.jar

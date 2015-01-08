@@ -1,0 +1,1 @@
+java -jar c:\commands\logan.jar %1

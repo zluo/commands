@@ -1,0 +1,1 @@
+set JBOSS_HOME="c:\jboss-as-7.1.1"

@@ -1,0 +1,1 @@
+set MAVEN_OPTS=-Xdebug -Xnoagent -Djava.compiler=NONE -Xrunjdwp:transport=dt_socket,address=6000,server=y,suspend=n -Dfile.encoding=utf-8 -Dgpg.passphrase=bafosura -Xmx1024m -XX:MaxPermSize=512m
